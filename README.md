@@ -1,4 +1,4 @@
 opro
 ====
 
-Moved to github.com/opro/opro
+Moved to http://github.com/opro/opro
